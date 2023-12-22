@@ -261,7 +261,7 @@ const locations = [
     name: "perdeu",
     "button text": ["REINICIAR?", "REINICIAR?", "REINICIAR?"],
     "button functions": [restart, restart, restart],
-    text: "You die. ☠️",
+    text: "Você morreu. ☠️",
   },
   {
     name: "win",
