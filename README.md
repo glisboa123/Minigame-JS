@@ -17,3 +17,7 @@ Bem-vindo ao **Caçador de dragões**, um jogo simples baseado em texto onde voc
 ## Instruções de Uso:
 1. Clone o repositório.
 2. Abra o arquivo `index.html` em um navegador web.
+
+
+## GITHUB PAGES
+https://glisboa123.github.io/Minigame-JS/
