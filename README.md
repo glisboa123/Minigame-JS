@@ -1,12 +1,11 @@
-# RPG de Aventura Fantástica
+# Minigame RPG (Caçador de dragões)
 
-Bem-vindo ao **RPG de Aventura Fantástica**, um jogo simples baseado em texto onde você embarca em uma jornada emocionante enfrentando monstros, comprando armas e explorando um mundo mágico. Desenvolvido em JavaScript, este jogo oferece uma experiência interativa onde suas escolhas moldam a narrativa.
+Bem-vindo ao **Caçador de dragões**, um jogo simples baseado em texto onde você embarca em uma jornada emocionante enfrentando monstros, comprando armas e explorando um mundo mágico. Desenvolvido em JavaScript, este jogo oferece uma experiência interativa onde suas escolhas moldam a narrativa.
 
 ## Recursos Principais:
-- **Lute contra Monstros:** Enfrente slimes, bestas ferozes e até dragões em batalhas emocionantes.
+- **Lute contra Monstros:** Enfrente monstros para conseguir evoluir na jornada.
 - **Compre Itens:** Visite a loja para comprar armas e itens que ajudarão na sua jornada.
-- **Ganhe Recompensas:** Derrote monstros para ganhar experiência e ouro, aprimorando seu personagem.
-- **Jogabilidade Interativa:** Suas escolhas afetam o curso da história, levando a diferentes finais.
+- **Ganhe Recompensas:** Derrote monstros para ganhar experiência e ouro, e aprimorar seu personagem.
 
 ## Como Jogar:
 1. Escolha suas ações na praça da cidade, na loja ou na gruta.
